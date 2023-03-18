@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ma nouvelle page web</title>
+</head>
+<body>
+	<header>
+		<h1>Bienvenue sur ma nouvelle page web !</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Accueil</a></li>
+				<li><a href="#">À propos</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<h2>Présentation</h2>
+		<p>Voici ma nouvelle page web. Elle a été créée avec HTML, CSS et JavaScript.</p>
+	</main>
+	
+	<footer>
+		<p>&copy; 2023 - Tous droits réservés.</p>
+	</footer>
+</body>
+</html>
